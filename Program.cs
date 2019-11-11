@@ -82,7 +82,7 @@ namespace _2_ControlFlow
             //see if you can get each of the below outputs by changing age.
             int age = 5;
 
-            if(age <= 21)
+            if(age >= 21)
             {
                 Console.WriteLine("I'm an adult and can drink!");
             }
